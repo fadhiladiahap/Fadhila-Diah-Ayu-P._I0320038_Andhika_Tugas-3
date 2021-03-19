@@ -13,3 +13,4 @@ del dict ['Makanan favorit'][0:2]
 # Menambahkan 1 hobi
 dict['Hobi'].append('Bobo')
 
+print(dict)
